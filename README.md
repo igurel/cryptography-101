@@ -51,3 +51,47 @@
 * [NISTIR 8413, PQC Project Third Round Report | CSRC](https://csrc.nist.gov/publications/detail/nistir/8413/final)
 * [The Beginning of the End: The First NIST PQC Standards](https://csrc.nist.gov/csrc/media/Presentations/2022/the-beginning-of-the-end-the-first-nist-pqc-standa/images-media/pkc2022-march2022-moody.pdf)
 * [CRYSTALS (Cryptographic Suite for Algebraic Lattices)  Kyber and Dilithium](https://pq-crystals.org/index.shtml)
+
+# The Protocols
+## TLS
+### TLS RFCs
+* [RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3](https://www.rfc-editor.org/rfc/rfc8446)
+* [RFC 5246: The Transport Layer Security (TLS) Protocol Version 1.2](https://www.rfc-editor.org/rfc/rfc5246)
+* [RFC 9147: The Datagram Transport Layer Security (DTLS) Protocol Version 1.3](https://www.rfc-editor.org/rfc/rfc9147)
+* [RFC 6347: The Datagram Transport Layer Security (DTLS) Protocol Version 1.2](https://www.rfc-editor.org/rfc/rfc9147)
+### TLS Best Security Practices
+* [RFC 7457: Summarizing Known Attacks on Transport Layer Security (TLS) and Datagram TLS (DTLS)](https://www.rfc-editor.org/rfc/rfc7457)
+* [RFC 7525: Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://www.rfc-editor.org/rfc/rfc7525)
+* [RFC 7540: Hypertext Transfer Protocol Version 2 (HTTP/2)](https://www.rfc-editor.org/rfc/rfc7540) (Appendix A 'Cipher Suite Blacklist'’)
+* [RFC 7925: Transport Layer Security (TLS)/Datagram Transport Layer Security (DTLS) Profiles for the Internet of Things](https://www.rfc-editor.org/rfc/rfc7925)
+* [The Netherlands NCSC IT Security Guidelines for TLS](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1)
+* [BSI TR-02102-2: Use of Transport Layer security](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/TechGuidelines/TG02102/BSI-TR-02102-2.pdf)
+* [NIST SP 800-52 Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-52r2.pdf)
+* [Eliminating Obsolete Transport Layer Security (TLS) by NSA](https://media.defense.gov/2021/Jan/05/2002560140/-1/-1/0/ELIMINATING_OBSOLETE_TLS_UOO197443-20.PDF)
+
+### TLS Vulnerabilities
+* [BEAST (TLS 1.0 and the use of AES CBC with predictable IV)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+* [CRIME, TIME and BREACH (compression attacks))](https://en.wikipedia.org/wiki/CRIME)
+* [Lucky 13](https://en.wikipedia.org/wiki/Lucky_Thirteen_attack)
+* [POODLE (SSLv3 padding oracle attack)](https://en.wikipedia.org/wiki/POODLE)
+* [SMACK (state machine attack)](https://mitls.org/pages/attacks/SMACK)
+* [Logjam (weak DH groups)](https://en.wikipedia.org/wiki/Logjam_(computer_security))
+* [SLOTH (Security Losses from Obsolete and Truncated Transcript Hashes CVE-2015-7575)](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-7575)
+* [DROWN (breaking TLS with SSL 2.0)](https://drownattack.com/)
+* [FREAK (factoring RSA export keys)](https://en.wikipedia.org/wiki/FREAK)
+* [SWEET32 (birthday attacks on 64-bit block ciphers in CBC mode e.g. 3DES)](https://sweet32.info/)
+* [SELFIE (affects TLS 1.3 with PSK mode)](https://eprint.iacr.org/2019/347.pdf)
+* [Racoon Attack (affects TLS 1.2 and below when using DH)](https://raccoon-attack.com/)
+## The Signal Protocol
+* [A Formal Security Analysis of the Signal Messaging Protocol](https://eprint.iacr.org/2016/1013.pdf)
+## WireGuard
+* [WireGuard VPN](https://www.wireguard.com/)
+
+
+
+
+
+
+
+
+
