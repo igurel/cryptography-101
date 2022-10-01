@@ -90,14 +90,20 @@
 * [The Noise Protocol Framework](http://www.noiseprotocol.org/)
 # The NIST Publications
 * [NIST SP 800-38A: Recommendation for Block Cipher Modes of Operation: Methods and Techniques](https://csrc.nist.gov/publications/detail/sp/800-38a/final)
+* [NIST SP 800-38B: Recommendation for Block Cipher Modes of Operation: the CMAC Mode for Authentication](https://csrc.nist.gov/publications/detail/sp/800-38b/final)
+* [NIST SP 800-38C: Recommendation for Block Cipher Modes of Operation: the CCM Mode for Authentication and Confidentiality](https://csrc.nist.gov/publications/detail/sp/800-38c/final)
 * [NIST SP 800-38D: Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM) and GMAC](https://csrc.nist.gov/publications/detail/sp/800-38d/final)
+* [NIST SP 800-38E: Recommendation for Block Cipher Modes of Operation: the XTS-AES Mode for Confidentiality on Storage Devices](https://csrc.nist.gov/publications/detail/sp/800-38e/final)
+* [NIST SP 800-38F: Recommendation for Block Cipher Modes of Operation: Methods for Key Wrapping](https://csrc.nist.gov/publications/detail/sp/800-38f/final)
 * [NIST SP 800-56A Rev.3: Recommendation for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography](https://csrc.nist.gov/publications/detail/sp/800-56a/rev-3/final)
+* [NIST SP 800-56B Rev. 2: Recommendation for Pair-Wise Key-Establishment Using Integer Factorization Cryptography](https://csrc.nist.gov/publications/detail/sp/800-56b/rev-2/final)
+* [NIST SP 800-57 Part 1: Recommendation for Key Management: Part 1 – General](https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final)
+* [NIST SP 800-57 Part 2: Recommendation for Key Management: Part 2 – Best Practices for Key Management Organizations](https://csrc.nist.gov/publications/detail/sp/800-57-part-2/rev-1/final)
+* [NIST SP 800-57 Part 3: Recommendation for Key Management, Part 3: Application-Specific Key Management Guidance](https://csrc.nist.gov/publications/detail/sp/800-57-part-3/rev-1/final)
+* [NIST SP 800-130: A Framework for Designing Cryptographic Key Management Systems](https://csrc.nist.gov/publications/detail/sp/800-130/final)
 * [SP 800-135 Rev. 1: RRecommendation for Existing Application-Specific Key Derivation Functions](https://csrc.nist.gov/publications/detail/sp/800-135/rev-1/final)
 * [FIPS 186-4: Signature Standard (DSS)](https://csrc.nist.gov/publications/detail/fips/186/4/final)
 * [FIPS 186-5 (Draft): Signature Standard (DSS)](https://csrc.nist.gov/publications/detail/fips/186/5/draft)
-
-
-
 
 
 
