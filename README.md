@@ -86,6 +86,19 @@
 * [A Formal Security Analysis of the Signal Messaging Protocol](https://eprint.iacr.org/2016/1013.pdf)
 ## WireGuard
 * [WireGuard VPN](https://www.wireguard.com/)
+# The Frameworks
+* [The Noise Protocol Framework](http://www.noiseprotocol.org/)
+# The NIST Publications
+* [NIST SP 800-38A: Recommendation for Block Cipher Modes of Operation: Methods and Techniques](https://csrc.nist.gov/publications/detail/sp/800-38a/final)
+* [NIST SP 800-38D: Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM) and GMAC](https://csrc.nist.gov/publications/detail/sp/800-38d/final)
+* [NIST SP 800-56A Rev.3: Recommendation for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography](https://csrc.nist.gov/publications/detail/sp/800-56a/rev-3/final)
+* [SP 800-135 Rev. 1: RRecommendation for Existing Application-Specific Key Derivation Functions](https://csrc.nist.gov/publications/detail/sp/800-135/rev-1/final)
+* [FIPS 186-4: Signature Standard (DSS)](https://csrc.nist.gov/publications/detail/fips/186/4/final)
+* [FIPS 186-5 (Draft): Signature Standard (DSS)](https://csrc.nist.gov/publications/detail/fips/186/5/draft)
+
+
+
+
 
 
 
